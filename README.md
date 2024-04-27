@@ -1,8 +1,17 @@
 <h2 colors="red">José Pinheiro</h2>
 
-<a href="https://linkedin.com/in/jlvp000/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jlvp000/"></a>
-<a href="https://medium.com/@jlvp000"><img src="https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@jlvp000"></a>
-<a href="https://github.com/jlvp000/"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlvp000/"></a>
+<p>📫 Redes e contato:</p>
+<a href="mailto:contato.jlvp000@gmail.com?body=%22Ol%C3%A1,%20estou%20entrando%20em%20contato%20para...%22">
+  <img src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jlvp000@gmail.com?body=%22Ol%C3%A1,%20estou%20entrando%20em%20contato%20para...%22"/></a>
+<a href="https://linkedin.com/in/jlvp000/">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jlvp000/">
+</a>
+<a href="https://medium.com/@jlvp000">
+  <img src="https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@jlvp000">
+</a>
+<a href="https://github.com/jlvp000/">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlvp000/">
+</a>
 
 --------------------------------------------------
 <h2>Bem-vindo</h2>
@@ -15,8 +24,6 @@
 - 👯 Estou procurando colaborar **com projetos na área de dados**
 
 - 📝 Escrevo artigos regularmente sobre **meio ambiente, dados, estatística e assuntos diversos**
-
-- 📫 Como chegar até mim **contato.jlvp000@gmail.com**
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
