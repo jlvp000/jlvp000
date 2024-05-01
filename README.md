@@ -18,7 +18,8 @@
 
 <p align="justify">Olá, turma 👋. Eu sou o José, engenheiro florestal e cientista de dados Jr. apaixonado por dados. <br/> Neste espaço, convido você a explorar quem sou e o que faço. 🔍</p>
 
-
+- 💬 Me pergunte sobre **estatística, software R, visualização de dados, meio ambiente**
+  
 - 🌱 Atualmente estou aprendendo **CSS, JS, Python**
 
 - 👯 Estou procurando colaborar **com projetos na área de dados**
