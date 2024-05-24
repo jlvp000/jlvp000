@@ -34,7 +34,7 @@
 
 - 📱  **Mobile**: Dart, Flutter
 
-- 🛠️ **Ferramentas**: Word, ArcDis
+- 🛠️ **Ferramentas**: Word, ArcGis
 
 <p align="justify">Ao longo da minha jornada, tenho dedicado tempo e energia para aprimorar a qualidade dos negócios dos meus parceiros. Estou aqui para compartilhar meu conhecimento, colaborar em novos desafios e contribuir para um ambiente profissional mais inspirador e inovador. Sinta-se à vontade para entrar em contato com perguntas ou oportunidades de colaboração. Agradeço por estar aqui e por dedicar seu tempo a essa leitura.</p>
 
