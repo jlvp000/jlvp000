@@ -48,3 +48,10 @@
 - <p align="justify"><a href="https://www.linkedin.com/pulse/g%25C3%25AAnero-e-modalidade-profissional-sistema-confeacrea-um-jos%25C3%25A9-pinheiro-daqnf/?trackingId=WeW7wDpfRdKOWEUZE9hP5Q%3D%3D">Como se destaca a engenharia florestal em um mercado competitivo e diversificado</a>: Nesse artigo, eu analiso as diferenças de número de profissionais em cada regional do Sistema CONFEA/CREA em todos os estados brasileiros. Além disso, eu faço uma análise por região geográfica e comparar os profissionais registrados da engenharia florestal com os da agronomia e ambiental.</p>
 
 - <p align="justify">Aprenda a usar o R para análise de regressão - <a href="https://www.linkedin.com/pulse/aprenda-usar-o-r-para-an%25C3%25A1lise-de-regress%25C3%25A3o-cap%25C3%25ADtulo-jos%25C3%25A9-pinheiro-b965f/?trackingId=WeW7wDpfRdKOWEUZE9hP5Q%3D%3D">Capítulo 1</a>, <a href="https://www.linkedin.com/pulse/aprenda-usar-o-r-para-an%25C3%25A1lise-de-regress%25C3%25A3o-cap%25C3%25ADtulo-jos%25C3%25A9-pinheiro-lfl2f/?trackingId=WeW7wDpfRdKOWEUZE9hP5Q%3D%3D">Capítulo 2</a>, (Capítulo 3 em desenvolvimento): Nessa série de artigos, eu ensino como usar o ambiente do software R para fazer uma análise de regressão, onde eu abordo de forma breve aspectos históricos dessa análise estatística, crio um exemplo num contexto da engenharia florestal e por fim, mostro as linhas de códigos e as interpretações dos resultados dessa poderosa ferramenta de análise.</p>
+
+--------------------------------------------------
+<h2>Projetos GitHub</h2>
+
+- <a href="https://github.com/jlvp000/bau-projetos">
+  Clique aqui!
+</a>
